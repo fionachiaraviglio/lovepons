@@ -1,4 +1,4 @@
-#page title
+n#page title
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
@@ -36,40 +36,40 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Get suggested cupons!
+    description                           : You can create cupons and personalize them, as well as getting inspired from our cupon repository!
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Mobile support
+    description                           : Send cupons from your phone, receive cupons on your phone, do everything on your phone.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    description                           : Send a recorded message of looooove.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Sync from anywhere
+    description                           : Log in from any device, and recover your sent and received cupons.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Tweak to perfection
+    description                           : Change the cupon image, description, title, and colors!
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Fave cupons!
+    description                           : You can save cupons and use them again later.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Dowload cupons
+    description                           : View and edit cupons without internet connection.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Easy link connect
+    description                           : Connect with your loved one, simply by sharing a link!
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Support
+    description                           : Contact us for any issues, we will get back to you within 48 hours!
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
