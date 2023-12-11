@@ -36,12 +36,12 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Get suggested cupons!
-    description                           : You can create cupons and personalize them, as well as getting inspired from our cupon repository!
+  - title                                 : Get suggested coupons!
+    description                           : You can create coupons and personalize them, as well as getting inspired from our coupon repository!
     fontawesome_icon_name                 : magic
     
   - title                                 : Mobile support
-    description                           : Send cupons from your phone, receive cupons on your phone, do everything on your phone.
+    description                           : Send coupons from your phone, receive cuopons on your phone, do everything on your phone.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Video Support
@@ -49,19 +49,19 @@ features                                  :
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Sync from anywhere
-    description                           : Log in from any device, and recover your sent and received cupons.
+    description                           : Log in from any device, and recover your sent and received cuopons.
     fontawesome_icon_name                 : sync
 
   - title                                 : Tweak to perfection
-    description                           : Change the cupon image, description, title, and colors!
+    description                           : Change the coupon image, description, title, and colors!
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Fave cupons!
-    description                           : You can save cupons and use them again later.
+  - title                                 : Fave coupons!
+    description                           : You can save coupons and use them again later.
     fontawesome_icon_name                 : star
 
-  - title                                 : Dowload cupons
-    description                           : View and edit cupons without internet connection.
+  - title                                 : Dowload coupons
+    description                           : View and edit coupons without internet connection.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Easy link connect
@@ -83,8 +83,8 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
+cover_image                               : assets/Matcha.png                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#007997"
 cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
