@@ -9,7 +9,7 @@ This is the changelog for Lovepons, where you can see the different versions and
 
 <br>
 
-<!---### `Latest`
+<!--### `Latest`
 # **Version 2.0**
 This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
 
@@ -63,4 +63,4 @@ That wow robin one and gosh audibly darn that variously less across softly awake
 - Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
 
 <br>
---->
+-->
