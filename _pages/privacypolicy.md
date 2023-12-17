@@ -216,7 +216,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, You can contact us:
 
 - By visiting this page on our website: [https://www.fionachiaraviglio.com/contact](https://www.fionachiaraviglio.com/contact)
-<!--- **Last updated**  
+<!-- **Last updated**  
 August 1 2019
 
 # Privacy Policy
@@ -270,4 +270,5 @@ Worm where gravely behind logically far in tastefully as alas delicately before 
 
 ## 5.0 Information processing and transfers for EEA individuals
 Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh. 
---->
+-->
+
