@@ -13,7 +13,7 @@ presskit_download_link                    :                                    #
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Show how much you care! With LovePons, you can make unique gifts, from the heart.
+app_description                           : Show how much you care! With LovePons, you can create unique gifts, from the heart.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -21,12 +21,12 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : FIPA                                
-your_link                                 : https://www.fionachiaraviglio.com/                    
-your_city                                 : Stuttgart                              
+your_link                                 :                     
+your_city                                 :                               
 email_address                             : 
 facebook_username                         :                                           
-instagram_username                        : fionarte
-twitter_username                          : 
+instagram_username                        : ulovepons
+twitter_username                          : loveponsapp
 github_username                           : 
 youtube_username                          :
 mastodon_link                             : 
