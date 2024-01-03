@@ -215,4 +215,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-- By visiting this page on our website: [https://www.fionachiaraviglio.com/contact](https://www.fionachiaraviglio.com/contact)
+- By sending us an email at: loveponshelp@gmail.com
