@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["patrickfischer.CoupleVoucher.Debug", "patrickfischer.CoupleVoucher"],
+        "paths": ["/userConnection/*"]
+      }
+    ]
+  }
+}
+
