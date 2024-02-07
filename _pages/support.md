@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Us
+title: Support
 include_in_header: true
 ---
 
